@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43.941" height="43.941" viewBox="0 0 43.941 43.941">
+  <g id="vmw-app-line" transform="translate(0 0)">
+    <path id="Path_10" data-name="Path 10" d="M32.555,23.139h3.139V35.693H23.139V32.555H20v6.277H38.832V20H32.555Z" transform="translate(5.109 5.109)" fill="#fff"/>
+    <path id="Path_11" data-name="Path 11" d="M19.693,35.693H7.139V23.139h3.139V20H4V38.832H22.832V32.555H19.693Z" transform="translate(-4 5.109)" fill="#fff"/>
+    <path id="Path_12" data-name="Path 12" d="M10.277,19.693H7.139V7.139H19.693v3.139h3.139V4H4V22.832h6.277Z" transform="translate(-4 -4)" fill="#fff"/>
+    <path id="Path_13" data-name="Path 13" d="M20,4v6.277h3.139V7.139H35.693V19.693H32.555v3.139h6.277V4Z" transform="translate(5.109 -4)" fill="#fff"/>
+    <path id="Path_14" data-name="Path 14" d="M11,11h9.416v9.416H11Z" transform="translate(-0.014 -0.015)" fill="#fff"/>
+    <path id="Path_15" data-name="Path 15" d="M19,11h9.416v9.416H19Z" transform="translate(4.54 -0.015)" fill="#fff"/>
+    <path id="Path_16" data-name="Path 16" d="M11,19h9.416v9.416H11Z" transform="translate(-0.014 4.54)" fill="#fff"/>
+    <path id="Path_17" data-name="Path 17" d="M19,19h9.416v9.416H19Z" transform="translate(4.54 4.54)" fill="#fff"/>
+  </g>
+</svg>
